@@ -1,2 +1,6 @@
-# ASP.NET core web api
- 
+# HTTP API
+`webport`: 80
+
+Included:
+* `swagger`
+* `docker`

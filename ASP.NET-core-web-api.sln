@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tests", "tests\tests.csproj", "{8A469F35-65DA-4C22-992A-38F542B8FC9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET-core-web-api", "src\ASP.NET-core-web-api.csproj", "{A8FD02A5-64C2-42F2-B2F6-2F62B471590C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A469F35-65DA-4C22-992A-38F542B8FC9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A469F35-65DA-4C22-992A-38F542B8FC9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A469F35-65DA-4C22-992A-38F542B8FC9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A469F35-65DA-4C22-992A-38F542B8FC9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8FD02A5-64C2-42F2-B2F6-2F62B471590C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8FD02A5-64C2-42F2-B2F6-2F62B471590C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8FD02A5-64C2-42F2-B2F6-2F62B471590C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8FD02A5-64C2-42F2-B2F6-2F62B471590C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
